@@ -15,7 +15,7 @@ html {
 }
 
 header{
-  box-shadow: 0 0 5px rgba(0,0,0,.5);
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
 }
 
 .container .row {
@@ -23,14 +23,16 @@ header{
 }
 
 .product-desc {
-  padding: 30px;
+  padding: 50px;
+  position:relative
+
 }
 .product-img img{
-  width: 100%;
+  width: 80%;
 }
 
 #coffee_category  {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 .container h1{
   text-align: center;
@@ -62,15 +64,15 @@ footer {
   margin-top: 40px;
 }
 .custom-btn {
-  background: #542827;
-  border: #542827;
+  background:#5e6e4be6;
+  border: #5e6e4be6;
   color: white;
   border-radius: 15px;
 }
 
 .custom-btn:hover {
-  background: #3a1b1a;
-  border: #542827;
+  background:#5e6e4be6;
+  border:#5e6e4be6;
   color: white;
 }
 
@@ -81,4 +83,21 @@ footer {
 footer a {
   text-decoration: none;
   color: white;
+}
+.card{
+  width: 350px;
+  height: 503px;
+}
+
+.nav-item{
+  
+}
+.logo{
+  width:100px;
+}
+.col-md-8 product-desc{
+
+}
+.youtube{
+  
 }
