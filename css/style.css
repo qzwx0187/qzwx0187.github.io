@@ -85,8 +85,8 @@ footer a {
   color: white;
 }
 .card{
-  width: 350px;
-  height: 503px;
+  width: 100%;
+  
 }
 
 .nav-item{
@@ -99,5 +99,5 @@ footer a {
 
 }
 .youtube{
-  
+  width: 100%;
 }
