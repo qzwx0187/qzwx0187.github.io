@@ -18,9 +18,8 @@ header{
   box-shadow: 0 0 10px rgba(0,0,0,.5);
 }
 
-.container .row {
-  /* border: 1px solid red; */
-}
+
+
 
 .product-desc {
   padding: 50px;
@@ -89,15 +88,15 @@ footer a {
   
 }
 
-.nav-item{
+
   
-}
+
 .logo{
   width:100px;
 }
-.col-md-8 product-desc{
 
-}
+
+
 .youtube{
   width: 100%;
 }
